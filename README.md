@@ -1,5 +1,5 @@
 # sfdx-clean-partial-copy
-Janky Apex to use to clean bad lookups from partial copies
+Apex to use to clean bad lookups from partial copies. Review examples before using.
 
 Modify SandboxSetup_PartialCopyBadFields by following the pattern started there.
 Invoke the batch using something like this
